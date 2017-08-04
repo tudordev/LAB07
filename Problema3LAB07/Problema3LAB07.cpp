@@ -63,6 +63,9 @@ int main()
 	cout << ob1;
 	//comentariu
 
+
+
+
     return 0;
 }
 
