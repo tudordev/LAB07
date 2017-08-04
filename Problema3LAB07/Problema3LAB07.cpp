@@ -59,11 +59,14 @@ ostream& operator<<(ostream &out, Student &stud)
 int main()
 {
 	Student ob1;
+	int modificare;//modificare
 	cin >> ob1;
 	cout << ob1;
 	//comentariu
 	int a;
 	Student obj2;
+	//inca un comentariu
+
     return 0;
 }
 
