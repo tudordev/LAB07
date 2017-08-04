@@ -66,6 +66,8 @@ int main()
 	int a;
 	Student obj2;
 	//inca un comentariu
+	cin >> obj2;
+	cout << obj2;
 
     return 0;
 }
