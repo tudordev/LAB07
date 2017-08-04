@@ -62,10 +62,7 @@ int main()
 	cin >> ob1;
 	cout << ob1;
 	//comentariu
-
-
-
-
+	int a;
     return 0;
 }
 
