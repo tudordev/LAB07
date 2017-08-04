@@ -63,6 +63,7 @@ int main()
 	cout << ob1;
 	//comentariu
 	int a;
+	Student obj2;
     return 0;
 }
 
