@@ -61,7 +61,7 @@ int main()
 	Student ob1;
 	cin >> ob1;
 	cout << ob1;
-
+	//comentariu
 
     return 0;
 }
